@@ -1,0 +1,14 @@
+.darkButton button { 
+    border: none;
+    font-family:manrope;
+    background-color:var(--primary-light-blue);
+    width: 135px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.darkButton button:hover {
+    cursor:pointer;
+    background-color:var(--primary-silverLakeBlue);
+}

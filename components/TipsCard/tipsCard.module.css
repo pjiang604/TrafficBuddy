@@ -1,0 +1,29 @@
+.tipsContainer {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px rgb(0, 0, 0, .25);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.tipsImg {
+    border-radius: 20px;
+    object-fit: contain;
+    height: auto;
+    width: 100%;
+}
+
+.tipsHeader {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: var(--primary-light-blue);
+    color: black;
+}

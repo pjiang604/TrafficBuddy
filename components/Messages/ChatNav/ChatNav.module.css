@@ -1,0 +1,48 @@
+.navContainer {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 1em 20px;
+    background-color: var(--primary-light-spice);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-sizing: border-box;
+}
+
+.messageFeatures {
+    width: 75%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.messageFeatures>input {
+    border: 1px solid var(--primary-charcoal);
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+    font-family: 'manrope';
+    border-radius: 10px;
+    width: 100%;
+    margin: .25em auto;
+    font-size: 16px;
+    padding-left: 1em;
+
+}
+
+.sendButton {
+    width: 25%;
+    height: auto;
+}
+
+
+.messageMedia {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.count {
+    margin: 0px;
+}

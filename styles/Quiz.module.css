@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: var(--primary-h1-font);
+    font-weight: var(--primary-bold);
+    word-break: break-all;
+    text-align: center;
+    margin-top: -0.5rem;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    object-fit:contain;
+}
+
+.optionContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.resultContainer {
+    background-color: var(--primary-silverLakeBlue);
+    width: 100%;
+    height: 354px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.largeScore{
+    font-size: 6em;
+    margin: 0px;
+}
+
+.medButtons{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

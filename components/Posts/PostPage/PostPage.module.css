@@ -1,0 +1,11 @@
+.imagePic{
+    object-fit: cover;
+    border-radius: 50px;
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

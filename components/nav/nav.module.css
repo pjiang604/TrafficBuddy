@@ -1,0 +1,16 @@
+.navContainer{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    padding: 1em 0em;
+    background-color: var(--primary-light-spice);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-sizing: border-box;
+}
+
+.navIcon{
+    object-fit: cover;
+}

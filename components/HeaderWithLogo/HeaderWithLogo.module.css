@@ -1,0 +1,24 @@
+.headerContainer {
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content:flex-end;
+    padding: 1em var(--screen-padding);
+    background: var(--primary-light-spice);
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    box-sizing: border-box;
+}
+
+.hamburger {
+    align-items:right;
+    justify-content:right;
+}
+
+.backIcon img {
+    object-fit: cover;
+}
+
+.title {
+    margin-right:4.7em;
+}

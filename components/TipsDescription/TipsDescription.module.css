@@ -1,0 +1,62 @@
+.accordionContainer{
+    width: 100%;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tipsImg {
+    border-radius: 20px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.buttonContainer{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.button{
+    width: 100%;
+    position: relative;
+    text-align: left;
+    padding: 4px;
+    background: transparent;
+    border: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button:hover{
+    cursor: pointer;
+}
+
+
+.toggleContainer{
+    border-top: 1px solid var(--primary-charcoal);
+    margin-top: -1px;
+
+}
+
+.buttonFlex{
+    width: 100%;
+    padding-right: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.accordionDescCont > p{
+    padding-bottom: 0.5em;
+    margin-top: 0px;
+    padding-left: 1.3em;
+}
+
+
+

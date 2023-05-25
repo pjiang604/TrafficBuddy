@@ -1,0 +1,14 @@
+.buttonContainer{
+    width: 45px;
+    height: 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    background-color:var(--primary-light-blue);
+}
+
+.buttonContainer button:hover {
+    background-color:var(--primary-silverLakeBlue);
+}

@@ -1,0 +1,13 @@
+.buttonContainer{
+    width: 255px;
+    height: 55px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 6px;
+    background-color: var(--primary-light-spice);
+    padding: 1em;
+    box-sizing: border-box;
+}

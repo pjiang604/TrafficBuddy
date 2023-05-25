@@ -1,0 +1,23 @@
+.countContainer{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.detailsField{
+    width: 100%;
+    height: 6em;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: var(--white);
+    font-family: Manrope;
+    background-color: white;
+}
+
+.count{
+    text-align: right;
+    margin-bottom: 0px;
+}
+
+

@@ -1,0 +1,21 @@
+.buttonContainer{
+    width: 135px;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    background-color: var(--primary-light-blue);
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    color: black;
+}
+
+.buttonContainer > p{
+    font-size: 16px;
+}
+
+.buttonContainer:hover {
+    background-color: var(--primary-silverLakeBlue);
+    cursor:pointer;
+}

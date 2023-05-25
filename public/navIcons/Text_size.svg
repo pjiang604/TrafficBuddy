@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Text_size" data-name="Text size" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 576">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 350px;
+        letter-spacing: -.03em;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Manrope-Regular, Manrope;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-2 {
+        font-size: 224.79px;
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(125.29 395)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-2" transform="translate(291.47 395.93)"><tspan x="0" y="0">T</tspan></text>
+</svg>

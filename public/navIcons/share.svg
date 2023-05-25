@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Share" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 576">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1d1d1b;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 18.91px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m481.11,259.34l-147.61-102.64v51.74c-219.54,0-212.9,223.83-212.9,223.83,0,0,38.85-122.02,212.9-122.02v51.74l147.61-102.64Z"/>
+</svg>

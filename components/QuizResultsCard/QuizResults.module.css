@@ -1,0 +1,46 @@
+.resultContainer {
+    background-color:var(--primary-light-spice);
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.3);
+    text-align:left;
+    border-radius: 10px;
+    padding-left:1em;
+    width:100%;
+}
+
+.resultContainer p {
+    text-align:right;
+    padding-right:1em;
+
+}
+
+.resultContainer h3 {
+    font-size:18px;
+    font-weight:400;
+    margin-bottom: 0px;
+}
+
+.text {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items: center;
+
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.arrow{
+    object-fit: contain;
+}
+
+.linkContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: .5em;
+}
+
+

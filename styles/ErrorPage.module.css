@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2rem;
+    align-items: center;
+}
+
+.header {
+    font-size: 80px;
+    margin-top: 10rem;
+ 
+}
+
+.subheader{
+    margin-top: -3rem;
+}
+

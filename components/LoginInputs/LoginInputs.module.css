@@ -1,0 +1,75 @@
+.main {
+    display:flex;
+    flex-direction: column;
+    width:100%;
+    height: 884px;
+    padding-bottom: 0px;
+}
+
+.logoPic img {
+    object-fit: contain;
+    align-items:center;
+}
+
+.logoPic {
+    align-items:center;
+    margin:auto;
+}
+
+.loginButton {
+    padding-left:3em;
+}
+
+.input {
+    border: 1px black solid;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    font-family: 'manrope';
+    padding-left: 0.75em;
+    border-radius: 10px;
+    width: 100%;
+}
+
+
+.forgotPW p {
+    font-size: 13px;
+    padding-bottom: 2em;
+}
+
+.forgotPW:hover {
+    cursor: pointer;
+}
+
+.box h4 {
+    margin-bottom: 0.75em;
+}
+
+.box {
+    width: 100%;
+}
+
+.box h2 {
+    text-align: center;
+    margin-bottom:0.25em;
+    margin-top:0.25em;
+    font-weight:700;
+}
+.showPassBtn {
+    border: none;
+}
+
+.passAlign {
+    position: relative;
+}
+
+.passAlign input {
+    padding-right: 20px;
+}
+
+.passAlign button {
+    position: absolute;
+    transform: translateY(35%);
+    right: 0;
+    cursor: pointer;
+    background-color: transparent;
+}

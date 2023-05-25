@@ -1,0 +1,21 @@
+.buttonContainer{
+    width: 240px;
+    height: 55px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 6px;
+    background-color: var(--primary-light-spice);
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    color: black;
+}
+
+.buttonContainer > p{
+    font-size: 18px;
+}
+
+.buttonContainer:hover {
+    background-color: var(--primary-pumpkin);
+    cursor:pointer;
+}

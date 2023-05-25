@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope');
+
+.headerContainer{
+    height: 95px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 1em var(--screen-padding);
+    background: var(--primary-light-spice);
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    box-sizing: border-box;
+    color: black;
+}
+
+.title {
+    font-family: 'manrope';
+    margin: .25em;
+    text-align: center;
+}
+
+.backIcon{
+    align-items:left;
+}
+
+.backIcon:hover {
+    cursor:pointer;
+}
+
+.backIcon img {
+    object-fit:contain;
+}
+
+.rightIcons {
+    display:flex;
+    justify-content:flex-end;
+}
+
+.rightIcons:hover {
+    cursor:pointer;
+}

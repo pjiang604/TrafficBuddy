@@ -1,0 +1,41 @@
+.line {
+    color: black;
+    height: 1rem;
+    width: 100%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: .25em
+}
+
+.main h4:hover {
+    cursor:pointer;
+}
+
+.header {
+    font-size: var(--primary-h2-font);
+    font-weight: bold;
+} 
+
+.content {
+    margin-bottom: -1.5rem;
+    margin-top: -1.5rem;
+}
+
+.contentPrivacy {
+    margin-bottom: -1.5rem;
+    margin-top: -1.5rem;
+    padding-bottom: 2em
+}
+
+.contentFirst {
+    margin-bottom: -1.5rem;
+}
+
+.copyright{
+    margin-top: 2em;
+}

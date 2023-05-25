@@ -1,0 +1,84 @@
+.main{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+}
+
+.whenContainer{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.whenField {
+    width: 100%;
+    border: 1px solid black;
+    height: auto;
+    border-radius: 10px;
+    background-color: var(--white);
+    padding: 0.5em;
+    background-color: white;
+}
+
+.carousel{
+    display: flex;
+    flex-direction: row;
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 64px;
+}
+
+
+.successContainer{
+    transform: translate(-50%, -50%);
+    position:fixed;
+    background-color:white;
+    border: 1px solid black;
+    top:50%;
+    left:50%;
+    text-align:center;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    padding-top:2em;
+    padding-bottom:2em;
+    padding-left:1em;
+    padding-right:1em;
+    z-index:10;
+    max-width:80%;
+    border: 1px solid var(--primary-charcoal);
+    background-color: var(--primary-white);
+    padding: 0.75em;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+.successContainer > h1{
+    text-align: center;
+}
+
+
+.successContainer > h3 {
+    font-weight:300;
+    font-size:16px;
+}
+
+.firstBtn {
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+    margin-top: 1em;
+}
+
+.secBtn{
+    display: flex;
+    justify-content: center;
+    margin-top: -1em;
+}

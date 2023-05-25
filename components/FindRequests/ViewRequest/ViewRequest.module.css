@@ -1,0 +1,15 @@
+.imagePic {
+    object-fit: cover;
+    border-radius: 50px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.headshot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

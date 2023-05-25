@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Right_Answer" data-name="Right Answer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 327 263">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fdfae3;
+        stroke-width: 11.98px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-6 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-3, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ff8c42;
+        stroke: #0f0d04;
+      }
+
+      .cls-2, .cls-3, .cls-7 {
+        stroke-width: 7px;
+      }
+
+      .cls-3, .cls-6, .cls-7 {
+        stroke: #000;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke-width: 10px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #373f47;
+      }
+
+      .cls-5 {
+        fill: #67a960;
+        stroke-width: 6px;
+      }
+
+      .cls-6 {
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-2" cx="206.51" cy="150.66" r="86.5"/>
+  <circle cx="155.11" cy="152.66" r="7"/>
+  <circle cx="257.51" cy="152.66" r="7"/>
+  <polyline class="cls-3" points="185.21 234.56 153.61 244.76 150.01 232.26"/>
+  <polyline class="cls-3" points="243.81 230.56 275.51 240.76 279.01 228.26"/>
+  <line class="cls-3" x1="104.5" y1="174.5" x2="121.15" y2="170.12"/>
+  <path class="cls-3" d="m292.21,161.96c9.2,0,30.3,12.9,11.6,37.5"/>
+  <line class="cls-4" x1="92.53" y1="134.49" x2="120.47" y2="242.51"/>
+  <circle class="cls-5" cx="79.5" cy="94.5" r="67.5"/>
+  <path class="cls-1" d="m107,75l-30.68,37.5c-1.59,1.94-4.49,2.14-6.32.42l-15.99-14.93"/>
+  <path class="cls-7" d="m98.5,175.5s-5,1-6,5"/>
+  <path class="cls-3" d="m92.5,180.5s-2,7,13,6"/>
+  <path class="cls-6" d="m181.36,174.69c11.5,10.5,35.1,12.2,51.5-1.5"/>
+</svg>

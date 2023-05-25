@@ -1,0 +1,38 @@
+.button { 
+    position: relative;
+}
+.links a {
+    text-decoration:none;
+    color:var(--primary-black);
+}
+
+.links {
+    display: block;
+    position: absolute;
+    list-style: none;
+    padding-left:1em;
+    right: 0;
+    white-space: nowrap;
+    z-index: 1;
+    background-color: var(--primary-white);
+    line-height:2em;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-radius: 0px 0px 0px 10px;
+    padding-right:1.5em;
+    padding-bottom:0.5em;
+    padding-top:0.5em;
+}
+
+.open {
+    background-color: var(--primary-light-spice);
+
+}
+
+.open:hover {
+    cursor:pointer;
+}
+
+.container {
+    background-color:var(--primary-beige);
+}

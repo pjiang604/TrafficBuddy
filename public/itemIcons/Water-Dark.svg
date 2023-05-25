@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105.72 105.72">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #373f47;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #373f47;
+      }
+
+      .cls-3 {
+        stroke-width: 1.08px;
+      }
+    </style>
+  </defs>
+  <g id="Water">
+    <g>
+      <rect class="cls-2" x=".5" y=".5" width="104.72" height="104.72" rx="17.81" ry="17.81"/>
+      <rect class="cls-1" x="43.67" y="15.95" width="18.2" height="5.77" rx="2.88" ry="2.88"/>
+      <g>
+        <path class="cls-1" d="m34.66,51.45h34.96v-5.19c0-2.02.06-3.06-1-5.7-1.76-4.26-5.59-12.7-7.45-15.91-.27-.47-.79-.74-1.33-.73-6.84.02-6.53.02-13.41-.01-.52,0-1.2.37-1.53.77-2.36,2.9-8.07,13.98-8.87,16.03,0,0,.01,0,.01,0-.88,1.66-1.38,3.55-1.38,5.55v5.19Z"/>
+        <rect class="cls-1" x="34.66" y="53.52" width="34.96" height="2.88"/>
+        <rect class="cls-3" x="34.66" y="58.47" width="34.96" height="2.71"/>
+        <path class="cls-1" d="m34.66,63.19v12.76c0,6.6,5.4,12,12,12h10.96c6.6,0,12-5.4,12-12v-12.76h-34.96Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

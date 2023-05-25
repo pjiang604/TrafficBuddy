@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Wrong_Answer" data-name="Wrong Answer" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 327 263">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6c91c2;
+        stroke: #0f0d04;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-4, .cls-8 {
+        stroke-width: 7px;
+      }
+
+      .cls-2 {
+        stroke-width: 11.98px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #fdfae3;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 12px;
+      }
+
+      .cls-4, .cls-7, .cls-8 {
+        stroke: #000;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        stroke-width: 10px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #373f47;
+      }
+
+      .cls-6 {
+        fill: #ee4242;
+        stroke-width: 6px;
+      }
+
+      .cls-7 {
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="210.51" cy="152.66" r="86.5"/>
+  <circle cx="159.11" cy="154.66" r="7"/>
+  <circle cx="261.51" cy="154.66" r="7"/>
+  <polyline class="cls-4" points="189.21 236.56 157.61 246.76 154.01 234.26"/>
+  <polyline class="cls-4" points="247.81 232.56 279.51 242.76 283.01 230.26"/>
+  <line class="cls-4" x1="108.5" y1="176.5" x2="125.15" y2="172.12"/>
+  <path class="cls-4" d="m296.21,163.96c9.2,0,30.3,12.9,11.6,37.5"/>
+  <line class="cls-5" x1="96.53" y1="136.49" x2="124.47" y2="244.51"/>
+  <circle class="cls-6" cx="83.5" cy="96.5" r="67.5"/>
+  <line class="cls-3" x1="57.33" y1="86.23" x2="111.17" y2="109.19"/>
+  <line class="cls-2" x1="99.17" y1="72.03" x2="71.33" y2="123.47"/>
+  <path class="cls-8" d="m102.5,177.5s-5,1-6,5"/>
+  <path class="cls-4" d="m96.5,182.5s-2,7,13,6"/>
+  <path class="cls-7" d="m198.5,176.5c4-6,21-7,24.5-.5"/>
+</svg>

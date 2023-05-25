@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.heading{
+text-align: center;
+}
+
+.heading > h4{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.heading > p{
+    margin-top: 0.5em;
+}

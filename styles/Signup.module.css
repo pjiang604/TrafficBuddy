@@ -1,0 +1,13 @@
+.main{
+    padding-bottom: 0px;
+    height: 844px;
+}
+
+.main img {
+    object-fit:cover;
+}
+
+.logoPic {
+    display:flex;
+    margin:auto;
+}

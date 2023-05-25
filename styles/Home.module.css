@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+.welcomeMsg {
+  line-height:1em;
+  text-align:left;
+  margin-left:1em;
+  width:100%;
+}
+
+.achivementButtons {
+  width:100%;
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.inside {
+  display:grid;
+  grid-template-rows: 30px 50px 65px;
+  padding-top:1em;
+}
+
+.emoji {
+  width:40px;
+  height:40px;
+  border-radius:50%;
+  background-color:var(--primary-white);
+  align-items:center;
+  text-align:center;
+  justify-content:center;
+  display:flex;
+  font-size:22px;
+}
+
+.achievementButtons button {
+  background-color:var(--primary-light-blue);
+  width:8em;
+  height:11em;
+  font-family:'manrope', sans-serif;
+  box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.3);
+  border-radius:15px;
+  margin:0.35em;
+  text-align:left;
+  border:none;
+}
+
+.achievementButtons button:hover {
+  cursor:pointer;
+  background-color:var(--primary-silverLakeBlue);
+}
+
+.fulfillmentNum {
+  font-weight:800;
+  font-size:20px;
+}
+
+.fulfillmentNum h1 {
+  margin-top:0;
+  margin-bottom:0;
+}
+
+.quickLinks {
+  display:grid;
+  grid-template-columns: 155px 155px;
+  grid-gap:1em;
+  margin:auto;
+}
+
+.quickLinks button {
+  height: 12em;
+  background-color:var(--primary-light-spice);
+  border:none;
+  border-radius:20px;
+  box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.3);
+  font-family: 'manrope';
+  text-align:left;
+  width:150px;
+}
+
+.quickLinks a {
+  text-decoration:none;
+  color:var(--primary-black);
+  font-size:25px;
+}
+
+.quickLinks button:hover {
+  background-color:var(--primary-pumpkin);
+  cursor:pointer;
+}
+
+.title h2 {
+  margin-bottom:0;
+}
+
+.achievementDesc {
+  font-weight:700;
+}
+
+.achievementDesc p {
+  font-size:18px;
+  padding-top:1em;
+}
+
+.quickInside {
+  display:grid;
+  grid-template-rows: 35px 100px;
+  padding-left:0.5em;
+}
+
+.quickEmoji {
+  width:35px;
+  height:35px;
+  border-radius:50%;
+  background-color:var(--primary-white);
+  align-items:center;
+  text-align:center;
+  justify-content:center;
+  display:flex;
+  font-size:20px;
+}
+
+.quickTitle h2 {
+  margin-top:0;
+  margin-bottom:0;
+  font-weight:600;
+  font-size:22px;
+}
+
+.main {
+  gap:1em;
+}

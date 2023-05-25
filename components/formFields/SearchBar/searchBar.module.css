@@ -1,0 +1,35 @@
+.searchForm{
+    display: flex;
+    flex-direction: column;
+
+    }
+
+    .searchContainer{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+        position: relative;
+    }
+
+    .searchInput{
+        width: 100%;
+        height: 30px;
+        border-radius: 10px;
+        border: 1px solid black;
+        padding-left: 3em;
+        font-size: var(--primary-regular-font);
+
+    }
+
+    .filterImg{
+        position: absolute;
+        right: 8px;
+        bottom: 3px;
+    }
+
+    .magImg{
+        position: absolute;
+        left: 8px;
+        bottom: 5px;
+    }
